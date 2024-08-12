@@ -430,7 +430,7 @@ while true; do
   echo -e "${RED}'ggg      ,gg'''  .    ggg       Auto Installer VarelTzy  ${NC}"
   echo -e "${RED}gggg      gg     ,     ggg      ------------------------  ${NC}"
   echo -e "${RED}ggg:     gg.     -   ,ggg       • Telegram : @varelmek    ${NC}"
-  echo -e "${RED} ggg:     ggg._    _,ggg        • Creadte By VAREL OFFC   ${NC}"
+  echo -e "${RED} ggg:     ggg._    _,ggg        • Creadit VarelTzy        ${NC}"
   echo -e "${RED} ggg.    '.'''ggggggp           • Support by VarelTzy     ${NC}"
   echo -e "${RED}  'ggg    '-.__                                           ${NC}"
   echo -e "${RED}    ggg                                                   ${NC}"
